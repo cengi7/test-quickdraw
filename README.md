@@ -1,2 +1,3 @@
-Mr. WhiteShadoW 
+cengi7@workstation:~$ whoami 
+* Mr. WhiteShadoW *
 
